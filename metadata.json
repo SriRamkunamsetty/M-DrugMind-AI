@@ -1,0 +1,6 @@
+{
+  "name": "DrugMind AI",
+  "description": "An AI-powered Drug Discovery and Molecular Intelligence Platform capable of generating, analyzing, predicting, visualizing, and ranking drug candidates against disease targets using real scientific datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
